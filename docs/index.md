@@ -1,6 +1,6 @@
 Find me on meshcore
 
-> [ca11/cc🍓 `<ca11cc...a87b8b>`](https://analyzer.cascadiamesh.org#/nodes/ca11ccc5)
+> [ca11cc 01 :cup_with_straw: `<0aa75..00ccc>`](https://analyzer.cascadiamesh.org#/nodes/0aa75076)
 
 Meshcore Links
 - My Repeater \[[c/cc.sea-rdmd.🔆 <6c657a..ccc>](https://analyzer.cascadiamesh.org#/nodes/6c657a44)\]
